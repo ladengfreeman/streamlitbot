@@ -27,13 +27,13 @@
 后来 改成Helsinki-NLP/opus-mt-en-zh 专用英译中的模型。 然后表现的可以接受。
 
 ### 任务2：
-这个网站Network url: 192.168.10.89 仅在局域网内生效（或者localhost)。考虑像vercel那样生成一个外部可访问的公网连接。从vercel和streamlit cloud中，
+这个网站Network url: xxx 仅在局域网内生效（或者localhost)。考虑像vercel那样生成一个外部可访问的公网连接。从vercel和streamlit cloud中，
 选择streamlit cloud部署。
 
 ### 任务3：
-包括github搞一个repo：https://github.com/ladengfreeman/streamlitbot， 
-在streamcloud里面： https://share.streamlit.io/ 做成一个应用，
-生成中国内部可以访问的 https://9gcrd3gzrqxkjjfweegfpe.streamlit.app/  可以输入英文翻译成中文。
+包括github搞一个repo：xxx
+在streamcloud里面：xxx做成一个应用，
+生成中国内部可以访问的 xxx  可以输入英文翻译成中文。
 
 ### 任务4：扩展方向，暂未完成
 1. 访问速度（目前大陆可访问，但是速度较慢）。
